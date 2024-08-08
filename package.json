@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nsoftware/ipworks": "file:ipworks-24.0.tar.gz"
+  }
+}
